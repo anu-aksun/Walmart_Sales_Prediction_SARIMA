@@ -2,21 +2,21 @@ Retailers like Walmart rely heavily on accurate sales forecasts to efficiently p
 
 In this project, I use the SARIMA (Seasonal AutoRegressive Integrated Moving Average) model to forecast weekly sales for a specific Walmart store using historical sales data. The goal is to capture seasonality, trends, and temporal patterns in sales to support data-driven decision-making.
 
-Objective
+#Objective
 
-Forecast future weekly sales for a Walmart store
+-Forecast future weekly sales for a Walmart store
 
-Capture seasonal patterns and trends in retail sales
+-Capture seasonal patterns and trends in retail sales
 
-Help store managers and planners:
+-Help store managers and planners:
 
-Optimize inventory levels
+-Optimize inventory levels
 
-Improve staffing schedules
+-Improve staffing schedules
 
-Plan promotions more effectively
+-Plan promotions more effectively
 
-SARIMA is well-suited for retail time series data because:
+#SARIMA is well-suited for retail time series data because:
 
 It handles seasonality (weekly, yearly patterns)
 
